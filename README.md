@@ -109,7 +109,7 @@ covb = Number of bases in the genomic region covered by at least one sequencing 
 
 ```
 
-An common report of coverage values would be:
+A common report of coverage values would be:
 
 > For the targeted genomic regions, 90% of the bases where covered with a mean depth of coverage of 200X.
 
